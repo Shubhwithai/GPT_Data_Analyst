@@ -4,3 +4,4 @@ langchain
 openai
 openpyxl
 langchain_experimental
+tabulate
